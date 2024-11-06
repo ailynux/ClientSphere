@@ -23,7 +23,7 @@
 
 # ClientSphere 🌐
 
-> Your complete sphere of client relationships, all in one place.
+> Your complete sphere of client relationships, all in one place. - (in planning phase)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)]()
